@@ -4,6 +4,9 @@
       "path": "myApp1"
     },
     {
+      "path": "HelloWorld.Test"
+    },
+    {
       "path": ".AL-Go"
     }
   ],
